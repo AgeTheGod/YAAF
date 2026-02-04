@@ -1,6 +1,19 @@
-# YAAF - Yet Another Architecture Framework
-
-# YAAF - Yet Another Architecture Framework
+---
+title: Yet Another Architecture Framework
+description: Yet Another Architecture Framework
+intro: An Architecture Framework based on Perspectives, Products, Processes, Patterns, Principles and Practices
+children : false    
+childGroups:
+  - docs
+  - blogs
+  - practices
+  - patterns
+  - principles
+  - processes
+  - products
+  - perspectives
+---
+# Yet Another Architecture Framework
 
 ##  Motivation
 
@@ -29,11 +42,11 @@ It's not a new invention but is an innovative way of thinking about how to apply
 
 The YAAF framework is based on the 4P's of Architecture:
 -  **Perspectives** - Different views of the architecture from different stakeholder roles
--  **Products** - Different types of artifacts and deliverables produced during the architecture process
--  **Processes** - Different activities and tasks performed during the architecture process
 -  **Patterns** - Reusable solutions to common architecture problems
 -  **Principles** - Guiding rules and best practices for architecture development
 -  **Practices** - Established methods and techniques for architecture development
+-  **Products** - Different types of artifacts and deliverables produced during the architecture process
+-  **Processes** - Different activities and tasks performed during the architecture process
 
 There are other P's that could be included e.g. Plans, Phases, People, Platforms, etc. but I think the above are the most important ones to focus on when defining an architecture framework. Plans and Phases in particular are really Project Management topics and dictated by the development approach being taken.
 Platforms are of course important but they tend to be more relevant at the Technical Architecture level rather than the Application Architecture level and do not (or should not) change what an application does and the outcomes it produces.
