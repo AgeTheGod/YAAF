@@ -1,4 +1,6 @@
-#   The Importance of Names
+---
+title: Importance Of Names 
+---
 
 I had many conversations over the years about the importance of giving things meaningful names.
 

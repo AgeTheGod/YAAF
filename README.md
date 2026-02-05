@@ -3,8 +3,6 @@ title: Homepage
 description: "Homepage for Yet Another Architecture Framework"
 layout: default
 ---
-# Yet Another Architecture Framework
-
 ##  Motivation
 
 So why does the world need yet another architecture framework?

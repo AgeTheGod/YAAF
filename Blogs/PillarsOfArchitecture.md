@@ -1,9 +1,9 @@
 ---
 title: The Pillars of Architecture
 ---
-#  The Pillars (or P's) of Architecture
+##  The Pillars (or P's) of Architecture
 
-The YAAF framework is based on the 4P's of Architecture:
+The content of  this repository is based on the Pillars of Architecture which are:
 -  **Perspectives** - Different views of the architecture from different stakeholder roles
 -  **Patterns** - Reusable solutions to common architecture problems
 -  **Principles** - Guiding rules and best practices for architecture development
