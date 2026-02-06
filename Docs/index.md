@@ -1,3 +1,9 @@
+---
+title: Blogs 
+children : 
+    -   EnumeratedValues
+    -   ImportanceOfNames
+---
 ##  Blogs
 
 A point to bear in mind about these documents is that they have been written over a 30+ year period and my ideas have changed significantly during that time to accommodate my ideas and approaches to doing things.

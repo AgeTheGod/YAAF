@@ -35,10 +35,10 @@ Each directory focuses on a specific aspect of architecture, providing insights,
 
 These are the main directories and their descriptions:
 
-| Directory    | Description                                                                            |
-|--------------|----------------------------------------------------------------------------------------|
-| Blogs        | articles that express an opinion                                                       |
-| Patterns     | reusable solutions to common architecture problems                                     |
-| Practices    | good behaviour                                                                         |
-| Principles   | guiding rules and best practices for architecture development                          |
-| Processes    | different activities and tasks performed during the architecture process               |
+| Directory  | Description                                                                            |
+|------------|----------------------------------------------------------------------------------------|
+| Posts      | articles that express an opinion                                                       |
+| Patterns   | reusable solutions to common architecture problems                                     |
+| Practices  | good behaviour                                                                         |
+| Principles | guiding rules and best practices for architecture development                          |
+| Processes  | different activities and tasks performed during the architecture process               |
