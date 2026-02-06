@@ -40,10 +40,10 @@ The repository is organized into several sub-directories that each focuses on a 
 
 These are the main directories and generally what is in them:
 
-| Directory  | Description                                                                             |
-|------------|-----------------------------------------------------------------------------------------|
-| Blogs      | Articles that express an opinion and/or explain some of the thinking before my opinions |
-| Patterns   | Reusable solutions to common architecture problems                                      |
-| Practices  |                                                                                         |
-| Principles | guiding rules and best practices for architecture development                           |
-| Processes  | Definitions of activities and tasks performed during the architecture process           |
+| Directory                         | Description                                                                             |
+|-----------------------------------|-----------------------------------------------------------------------------------------|
+| B[index.md](Docs/index.md)logs    | Articles that express an opinion and/or explain some of the thinking before my opinions |
+| [Practices](Practices/index.md)   | Reusable solutions to common architecture problems                                      |
+| [Principles](Principles/index.md) |                                                                                         |
+| [Principles](Principles/index.md) | guiding rules and best practices for architecture development                           |
+| [Processes](Processes/index.md)   | Definitions of activities and tasks performed during the architecture process           |

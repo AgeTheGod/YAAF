@@ -1,6 +1,6 @@
 ---
 title: Principles
-description: Principles of Software Architecture
+description: Use of Principles of Software Architecture
 children:
     -   ArchitectureAsCode
     -   VersioningOverTime
