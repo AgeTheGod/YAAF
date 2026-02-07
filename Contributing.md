@@ -47,3 +47,6 @@ For example, the Blogs/index.md file might look like this:
     - [Enumerated Values](./EnumeratedValues.md)
     - [Importance of Names](./ImportanceOfNames.md)
     - [Importance of Names](./ImportanceOfNames.md)
+
+Every should have a "Back" link to its parent index.md file and every index.md file should have a "Home" link to the root index.md file. 
+This allows for easy navigation through the documentation.
