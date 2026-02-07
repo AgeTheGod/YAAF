@@ -1,6 +1,7 @@
 ---
 title: Yet Another Architecture Framework
 description: Yet Another Architecture Framework
+layout: default
 children :
   -   README
   -   Docs/index
